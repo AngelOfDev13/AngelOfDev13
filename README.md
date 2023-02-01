@@ -41,6 +41,13 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <img src ="https://user-images.githubusercontent.com/115580099/216128578-c30deeb2-9575-48c8-8339-e4fe2e6b348c.svg" alt="MONGODB logo" width="3%"  title='MongoDB'/>
 </div> 
 
+#### Tools
+<div>
+<img src ="https://user-images.githubusercontent.com/115580099/216125930-83dee92a-eadd-43fa-b8a8-54e2103842df.svg" alt="VSCODE logo" width="3%" title='Visual Studio Code'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216127369-07c9c51b-25a4-4748-aa87-73ec2b3d58d8.svg" alt="Git logo" width="3%" title='Git'/>
+</div> 
+
+
 <!--
 **AngelOfDev13/AngelOfDev13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
