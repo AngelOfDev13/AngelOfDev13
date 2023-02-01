@@ -43,7 +43,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 
 #### Tools
 <div>
-<img src ="https://user-images.githubusercontent.com/115580099/216125930-83dee92a-eadd-43fa-b8a8-54e2103842df.svg" alt="VSCODE logo" width="3%" title='Visual Studio Code'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216128537-cb411b03-0446-4106-aa82-7b04fb59cad7.svg" alt="VSCODE logo" width="3%" title='Visual Studio Code'/>
 <img src ="https://user-images.githubusercontent.com/115580099/216127369-07c9c51b-25a4-4748-aa87-73ec2b3d58d8.svg" alt="Git logo" width="3%" title='Git'/>
 </div> 
 
