@@ -29,7 +29,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <img width="50%"  align="right" src="https://github-readme-stats.vercel.app/api?username=AngelOfDev13&count_private=true&show_icons=true&custom_title=Angel%20Github%20Stats&hide=issues&theme=vision-friendly-dark" />
 </p>
 <p>
-<img width="50%" height="202" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOfDev13&layout=compact&theme=vision-friendly-dark&langs_count=6)" />
+<img width="50%" height="230" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOfDev13&theme=vision-friendly-dark&langs_count=6)" />
 </p>
 
 #### Frontend Technologies
