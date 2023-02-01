@@ -34,25 +34,8 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <img src ="https://user-images.githubusercontent.com/115580099/216128479-0cf651a4-36a5-4290-851c-304c67afefbb.svg" alt="SASS logo" width="3%" title='Sass'/>
 </div> 
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderful [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
 
-<!--
-**FernandoRoldan93/FernandoRoldan93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
-- Finish my Computer Engineering Master Degree
-	- :cloud: Cloud Computing [project](https://github.com/FernandoRoldan93/CC-Project). *In Progress: 50%* :chart_with_upwards_trend:
-
--->
 <!--
 **AngelOfDev13/AngelOfDev13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
