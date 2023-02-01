@@ -38,13 +38,13 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <div>
 <img src ="https://user-images.githubusercontent.com/115580099/216156427-87b00ea9-1eb3-45df-807f-6b185939db9c.svg" alt="NODEJS logo" width="5%" title='Node.JS'/>
 <img src ="https://user-images.githubusercontent.com/115580099/216128732-5f05e8b3-4520-4743-b9e9-8e5809be828d.svg" alt="EXPRESS logo" width="5%" title='Express'/>
-<img src ="https://user-images.githubusercontent.com/115580099/216128578-c30deeb2-9575-48c8-8339-e4fe2e6b348c.svg" alt="MONGODB logo" width="3%"  title='MongoDB'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216128578-c30deeb2-9575-48c8-8339-e4fe2e6b348c.svg" alt="MONGODB logo" width="5%"  title='MongoDB'/>
 </div> 
 
 #### Tools
 <div>
 <img src ="https://user-images.githubusercontent.com/115580099/216128537-cb411b03-0446-4106-aa82-7b04fb59cad7.svg" alt="VSCODE logo" width="3%" title='Visual Studio Code'/>
-<img src ="https://user-images.githubusercontent.com/115580099/216128658-c7a4ebf9-72b7-41ac-8b5b-cc8077b401b1.svg" alt="Git logo" width="3%" title='Git'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216128658-c7a4ebf9-72b7-41ac-8b5b-cc8077b401b1.svg" alt="Git logo" width="5%" title='Git'/>
 </div> 
 
 
