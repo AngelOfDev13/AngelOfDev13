@@ -28,6 +28,8 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 #### Frontend Technologies
 <div>
 	<img src ="https://user-images.githubusercontent.com/115580099/216125930-83dee92a-eadd-43fa-b8a8-54e2103842df.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
+	<img src ="https://user-images.githubusercontent.com/115580099/216127369-07c9c51b-25a4-4748-aa87-73ec2b3d58d8.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
+	
 </div> 
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderful [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
