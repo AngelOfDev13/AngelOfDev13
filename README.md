@@ -24,6 +24,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 - Coding at least 4 hours a day
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
+
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
 </p>
