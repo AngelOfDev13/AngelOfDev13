@@ -27,9 +27,11 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 
 #### Frontend Technologies
 <div>
-	<img src ="https://user-images.githubusercontent.com/115580099/216125930-83dee92a-eadd-43fa-b8a8-54e2103842df.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
-	<img src ="https://user-images.githubusercontent.com/115580099/216127369-07c9c51b-25a4-4748-aa87-73ec2b3d58d8.svg" alt="CSS3 logo" width="3%" title='HTML5'/>
-	<img src ="https://user-images.githubusercontent.com/115580099/216127859-9676c992-d8d0-4b4e-a658-e3f87b88d809.svg" alt="JAVASCRIPT logo" width="3%" title='HTML5'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216125930-83dee92a-eadd-43fa-b8a8-54e2103842df.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216127369-07c9c51b-25a4-4748-aa87-73ec2b3d58d8.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216127859-9676c992-d8d0-4b4e-a658-e3f87b88d809.svg" alt="JAVASCRIPT logo" width="3%"  title='JAVASCRIPT'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216127314-8a815207-122d-43b1-9039-bfb647bb302f.svg" alt="BOOTSTRAP logo" width="3%" title='BOOTSTRAP'/>
+
 	
 	
 </div> 
