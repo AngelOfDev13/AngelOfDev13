@@ -3,7 +3,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
-[!Instagram](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)]
 
 Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
 
@@ -28,6 +27,7 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
 </p>
+
 #### Frontend Technologies
 <div>
 <img src ="https://user-images.githubusercontent.com/115580099/216125930-83dee92a-eadd-43fa-b8a8-54e2103842df.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
