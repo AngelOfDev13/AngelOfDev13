@@ -1,13 +1,13 @@
-### Hi, I'm Angel 👋
+### Hi 👋!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-villamizar-366652259/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dvillamizar59@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/angeldaaviiid/)](https://www.instagram.com/angeldaaviiid/)
 
-I am a trainee developer 
+
 
 <img align="right" alt="img" src="https://user-images.githubusercontent.com/115580099/216117504-79c09168-1659-44d6-9418-30a78456ba63.jpg" width="50%" height="auto" />
-
+<!--
 #### 🔭 Things I am currently working on:
 - :rocket: Finish my Master Degree
 - 🌱 Add an English documentation and restructure some projects I already did for my degree and Master.
@@ -18,7 +18,7 @@ I am a trainee developer
 	- And so on...
 - Taking online courses about Data Science and Machine Learning
 - Adding posts about Machine Learning/Big Data/Software development to my personal [webpage](https://roldanzafra.com).
-
+-->
 #### :muscle: Things I am challenging myself with:
 - Trying to be more exhaustive documenting my projects
 - Coding at least 4 hours a day
