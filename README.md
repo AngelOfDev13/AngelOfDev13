@@ -4,26 +4,14 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dvillamizar59@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/angeldaaviiid/)](https://www.instagram.com/angeldaaviiid/)
 
-
+I am Angel, a passionate web developer always eager to expand my knowledge and skills. I strive to create practical and innovative solutions that bring value to the projects I work on.
 
 <img align="right" alt="img" src="https://user-images.githubusercontent.com/115580099/216117504-79c09168-1659-44d6-9418-30a78456ba63.jpg" width="50%" height="auto" />
-<!--
-#### 🔭 Things I am currently working on:
-- :rocket: Finish my Master Degree
-- 🌱 Add an English documentation and restructure some projects I already did for my degree and Master.
-	- [TFG (Degree's final thesis)](https://github.com/FernandoRoldan93/TFG)
-	- [MII Spark](https://github.com/FernandoRoldan93/MII_Spark)
-	- [IEEE-CIS Fraud Detection](https://github.com/FernandoRoldan93/MII_SIGE/tree/master/Laboratory_works/Practice_1)
-	- [UCI ML Drug Review analysis](https://github.com/FernandoRoldan93/TID_MII)
-	- And so on...
-- Taking online courses about Data Science and Machine Learning
-- Adding posts about Machine Learning/Big Data/Software development to my personal [webpage](https://roldanzafra.com).
--->
-#### :muscle: Things I am challenging myself with:
-- Trying to be more exhaustive documenting my projects
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+
+- 🌱 I am constantly pushing my limits and expanding my skillset by taking on online challenges in both front-end and back-end development.
+- 🐱‍👤 Trying to be more exhaustive documenting my projects.
+- 💪 Coding at least 4 hours a day.
+
 
 <p>
 <img width="50%"  align="right" src="https://github-readme-stats.vercel.app/api?username=AngelOfDev13&show_icons=true&hide_border=truelayout=compact&theme=vision-friendly-dark&langs_count=6" />
