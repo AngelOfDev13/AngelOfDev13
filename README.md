@@ -34,24 +34,24 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 
 #### Frontend Technologies
 <div>
-<img src ="https://user-images.githubusercontent.com/115580099/216125930-83dee92a-eadd-43fa-b8a8-54e2103842df.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
-<img src ="https://user-images.githubusercontent.com/115580099/216127369-07c9c51b-25a4-4748-aa87-73ec2b3d58d8.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
-<img src ="https://user-images.githubusercontent.com/115580099/216127859-9676c992-d8d0-4b4e-a658-e3f87b88d809.svg" alt="JAVASCRIPT logo" width="3%"  title='JavaScipt'/>
-<img src ="https://user-images.githubusercontent.com/115580099/216127314-8a815207-122d-43b1-9039-bfb647bb302f.svg" alt="BOOTSTRAP logo" width="3%" title='Bootstrap'/>
-<img src ="https://user-images.githubusercontent.com/115580099/216128479-0cf651a4-36a5-4290-851c-304c67afefbb.svg" alt="SASS logo" width="3%" title='Sass'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216125930-83dee92a-eadd-43fa-b8a8-54e2103842df.svg" alt="HTML5 logo" width="6%" title='HTML5'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216127369-07c9c51b-25a4-4748-aa87-73ec2b3d58d8.svg" alt="CSS3 logo" width="6%" title='CSS3'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216127859-9676c992-d8d0-4b4e-a658-e3f87b88d809.svg" alt="JAVASCRIPT logo" width="6%"  title='JavaScipt'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216127314-8a815207-122d-43b1-9039-bfb647bb302f.svg" alt="BOOTSTRAP logo" width="6%" title='Bootstrap'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216128479-0cf651a4-36a5-4290-851c-304c67afefbb.svg" alt="SASS logo" width="6%" title='Sass'/>
 </div> 
 
 #### Backend Technologies
 <div>
-<img src ="https://user-images.githubusercontent.com/115580099/216156427-87b00ea9-1eb3-45df-807f-6b185939db9c.svg" alt="NODEJS logo" width="5%" title='Node.JS'/>
-<img src ="https://user-images.githubusercontent.com/115580099/216128732-5f05e8b3-4520-4743-b9e9-8e5809be828d.svg" alt="EXPRESS logo" width="5%" title='Express'/>
-<img src ="https://user-images.githubusercontent.com/115580099/216128578-c30deeb2-9575-48c8-8339-e4fe2e6b348c.svg" alt="MONGODB logo" width="5%"  title='MongoDB'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216156427-87b00ea9-1eb3-45df-807f-6b185939db9c.svg" alt="NODEJS logo" width="8%" title='Node.JS'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216128732-5f05e8b3-4520-4743-b9e9-8e5809be828d.svg" alt="EXPRESS logo" width="8%" title='Express'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216128578-c30deeb2-9575-48c8-8339-e4fe2e6b348c.svg" alt="MONGODB logo" width="8%"  title='MongoDB'/>
 </div> 
 
 #### Tools
 <div>
-<img src ="https://user-images.githubusercontent.com/115580099/216128537-cb411b03-0446-4106-aa82-7b04fb59cad7.svg" alt="VSCODE logo" width="3%" title='Visual Studio Code'/>
-<img src ="https://user-images.githubusercontent.com/115580099/216128658-c7a4ebf9-72b7-41ac-8b5b-cc8077b401b1.svg" alt="Git logo" width="5%" title='Git'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216128537-cb411b03-0446-4106-aa82-7b04fb59cad7.svg" alt="VSCODE logo" width="6%" title='Visual Studio Code'/>
+<img src ="https://user-images.githubusercontent.com/115580099/216128658-c7a4ebf9-72b7-41ac-8b5b-cc8077b401b1.svg" alt="Git logo" width="6%" title='Git'/>
 </div> 
 
 
