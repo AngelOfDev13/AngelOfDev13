@@ -1,8 +1,6 @@
 ### Hi 👋!
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-villamizar-366652259/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dvillamizar59@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/angeldaaviiid/)](https://www.instagram.com/angeldaaviiid/)
+
 
 I am Angel, a passionate web developer always eager to expand my knowledge and skills. I strive to create practical and innovative solutions that bring value to the projects I work on.
 
@@ -42,6 +40,11 @@ I am Angel, a passionate web developer always eager to expand my knowledge and s
 <img src ="https://user-images.githubusercontent.com/115580099/216128658-c7a4ebf9-72b7-41ac-8b5b-cc8077b401b1.svg" alt="Git logo" width="6%" title='Git'/>
 </div> 
 
+####
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-villamizar-366652259/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dvillamizar59@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/angeldaaviiid/)](https://www.instagram.com/angeldaaviiid/)
 
 <!--
 **AngelOfDev13/AngelOfDev13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
