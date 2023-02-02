@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dvillamizar59@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/angeldaaviiid/)](https://www.instagram.com/angeldaaviiid/)
 
-I am Angel and I am 
+I am a trainee developer 
 
 <img align="right" alt="img" src="https://user-images.githubusercontent.com/115580099/216117504-79c09168-1659-44d6-9418-30a78456ba63.jpg" width="50%" height="auto" />
 
