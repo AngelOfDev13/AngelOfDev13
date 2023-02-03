@@ -15,7 +15,7 @@ I am Angel, a passionate web developer always eager to expand my knowledge and s
 <img width="50%"  align="right" src="https://github-readme-stats.vercel.app/api?username=AngelOfDev13&show_icons=true&theme=onedark"/>
 </p>
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOfDev13&layout=compact&theme=vision-friendly-dark&langs_count=6)" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOfDev13&layout=compact&theme=onedark"/>
 </p>
 
 #### Frontend Technologies
