@@ -16,16 +16,16 @@ I am passionate about code, with a strong foundation in web development, I speci
 #### :computer: Programming languages and tools: 
 <p>
   
-<code><img width="5%" src="https://github.com/user-attachments/assets/2c24782a-b161-4327-bb9a-6eb214568f63"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<img width="5%" src="https://github.com/user-attachments/assets/2c24782a-b161-4327-bb9a-6eb214568f63">
+<img width="5%" src="https://github.com/user-attachments/assets/55738d4b-ec46-4ccd-b764-62aeb97291b8">
+<img width="5%" src="https://github.com/user-attachments/assets/2aa2f43f-d225-43e4-9d53-aea7260eead7">
+
+<img width="5%" src="https://github.com/user-attachments/assets/974f30bd-ce38-42c5-a531-18f3c128ba88">
+<img width="5%" src="https://github.com/user-attachments/assets/ee2db09a-2a1f-4234-9657-26ed6944af2c">
+<img width="5%" src="https://github.com/user-attachments/assets/9bb569b6-61b4-4c9a-8175-60af168e9352">
+
+<img width="5%" src="https://github.com/user-attachments/assets/486fadbb-290d-4586-a1a9-55d0ab1a9527">
+<img width="5%" src="https://github.com/user-attachments/assets/76471fee-17f2-497b-969d-57c68314b024">
+<img width="5%" src="https://github.com/user-attachments/assets/76d6575c-b321-4cea-a6c2-a56b426b916a">
 </p>
 
