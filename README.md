@@ -16,7 +16,7 @@ I am passionate about code, with a strong foundation in web development, I speci
 #### :computer: Programming languages and tools: 
 <p>
   
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="5%" src="https://github.com/user-attachments/assets/2c24782a-b161-4327-bb9a-6eb214568f63"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <br />
